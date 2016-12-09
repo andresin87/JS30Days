@@ -1,0 +1,18 @@
+{
+  "num": 24,
+  "title": "Sticky Nav",
+  "tags": [
+    1,
+    2,
+    3
+  ],
+  "id": "74b89b91d9",
+  "duration": "10:02",
+  "vimeo": "https://player.vimeo.com/external/194128157.hd.mp4?s=fa6ce7de5a38857bb27d0e77e6ae0587b1b055d9&profile_id=170&oauth2_token_id=901465035",
+  "cdn": "https://player.vimeo.com/play/649141520?s=194128157_1481068852_35b2334ca13d…um%5CVideosController.&download=1&filename=24%2B-%2BSticky%2BNavsource.mp4",
+  "tagNames": [
+    "DOM & Interface",
+    "Fundamentals",
+    "Friends with CSS"
+  ]
+}

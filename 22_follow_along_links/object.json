@@ -1,0 +1,16 @@
+{
+  "num": 22,
+  "title": "Follow Along Links",
+  "tags": [
+    1,
+    3
+  ],
+  "id": "99f049bb27",
+  "duration": "09:25",
+  "vimeo": "https://player.vimeo.com/external/194128366.hd.mp4?s=f62cfa1205f485be5d523780d9577f6f948b2acb&profile_id=170&oauth2_token_id=901465035",
+  "cdn": "https://player.vimeo.com/play/649142297?s=194128366_1481068852_631150f7c0b8…sController.&download=1&filename=22%2B-%2BFollow%2BAlong%2BLinkssource.mp4",
+  "tagNames": [
+    "DOM & Interface",
+    "Friends with CSS"
+  ]
+}
